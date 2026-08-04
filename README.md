@@ -1,6 +1,6 @@
 # Workflow
 
-<img align="left" width="15%" src="SpainBirthFlows2.pdf">
+<img align="left" width="15%" src="SpainBirthFlows2.png">
 
 The single monolithic `paper/SpainBirthFlows.R` script (kept unchanged
 alongside this folder) is split here into five sequential stages, each
