@@ -1,5 +1,7 @@
 <img align="center" width="250%" src="SpainBirthFlows2.png">
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21791217.svg)](https://doi.org/10.5281/zenodo.21791217)
+
 # Replication Archive
 
 Five sequential, independently-runnable stages that reproduce the
