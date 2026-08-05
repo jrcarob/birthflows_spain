@@ -2,8 +2,7 @@
 
 <img align="center" width="250%" src="SpainBirthFlows2.png"></br>
 
-The single monolithic `paper/SpainBirthFlows.R` script (kept unchanged
-alongside this folder) is split here into five sequential stages, each
+The figure project is split into five sequential stages, each
 independently runnable and each reading/writing its own files on disk.
 This is the version intended for the repository/replication archive.
 
