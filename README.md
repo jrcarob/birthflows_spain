@@ -1,3 +1,5 @@
+<img align="center" width="250%" src="SpainBirthFlows2.png">
+
 # Replication Archive
 
 Five sequential, independently-runnable stages that reproduce the
@@ -118,6 +120,12 @@ Per the HFD User Agreement, cite the Human Fertility Database as:
 > HFD. Human Fertility Database. Max Planck Institute for Demographic
 > Research (Germany) and Vienna Institute of Demography (Austria).
 > Available at www.humanfertility.org. Data downloaded on [date].
+
+Per Riffe et al. (2019) original figure and paper:
+
+> Riffe, Tim; Barclay, Kieron; Klüsener, Sebastian; Bohk-Ewald, Christina 2019: _Boom, echo, pulse, flow: 385 years of Swedish births_.
+> MPIDR Working Paper WP-2019-002. Rostock: Max Planck Institute for Demographic Research. [https://doi.org/10.4054/MPIDR-WP-2019-002](https://doi.org/10.4054/MPIDR-WP-2019-002)
+
 
 ## License
 
